@@ -1,0 +1,7 @@
+C:\school\programming code\GameProg_DiceRolling-BenF\GameProg_DiceRolling-BenF\bin\Debug\GameProg_DiceRolling-BenF.exe.config
+C:\school\programming code\GameProg_DiceRolling-BenF\GameProg_DiceRolling-BenF\bin\Debug\GameProg_DiceRolling-BenF.exe
+C:\school\programming code\GameProg_DiceRolling-BenF\GameProg_DiceRolling-BenF\bin\Debug\GameProg_DiceRolling-BenF.pdb
+C:\school\programming code\GameProg_DiceRolling-BenF\GameProg_DiceRolling-BenF\obj\Debug\GameProg_DiceRolling-BenF.csproj.AssemblyReference.cache
+C:\school\programming code\GameProg_DiceRolling-BenF\GameProg_DiceRolling-BenF\obj\Debug\GameProg_DiceRolling-BenF.csproj.CoreCompileInputs.cache
+C:\school\programming code\GameProg_DiceRolling-BenF\GameProg_DiceRolling-BenF\obj\Debug\GameProg_DiceRolling-BenF.exe
+C:\school\programming code\GameProg_DiceRolling-BenF\GameProg_DiceRolling-BenF\obj\Debug\GameProg_DiceRolling-BenF.pdb
